@@ -1,3 +1,4 @@
 # English to oromic language translation po file
 
-Are you sure? ->  Mirkaneeffatteettaa?
+English, Oromo 
+Are you sure? ,  Mirkaneeffatteettaa?
