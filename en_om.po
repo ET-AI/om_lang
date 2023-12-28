@@ -1,1 +1,3 @@
 # English to oromic language translation po file
+
+Are you sure? ->  Mirkaneeffatteettaa?
