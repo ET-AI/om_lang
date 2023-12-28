@@ -2,3 +2,6 @@
 
 English, Oromo 
 Are you sure? ,  Mirkaneeffatteettaa?
+admin, 
+Empty, Duwwaa
+Not empty, Duwwaa miti
