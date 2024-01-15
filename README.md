@@ -1,4 +1,4 @@
-# Developing an Internationalization (I18n) framework for the Oromo language 
+# I18n framework for the Oromo language 
 
 Embarking on the development of an Internationalization (I18n) framework tailored for the Oromo language requires a deep dive into linguistic nuances such as phonetics, syntax, and semantics. It's crucial to examine existing frameworks for insights and collaborate among linguists, software developers, and cultural experts to create a system that respects the language's uniqueness.
 
