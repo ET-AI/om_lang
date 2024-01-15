@@ -6,7 +6,7 @@ Integrating machine learning with Oromo language datasets improves accuracy. An 
 
 Consideration of unstructured datasets, including text, images, video, and audio, ensures a holistic approach for a culturally sensitive I18n framework for Oromo. Here are the recommended steps:
 
-**Export and Organize Translation Content**
+**Step 1: Export and Organize Translation Content**
 - Export translated content to an Excel file by each team member.
 - Combine all Excel files, organizing data with columns for different languages (e.g., English and Oromo).
 - Prepare Po files for each target language and Commit on GitHub for both i10n and i18n.
